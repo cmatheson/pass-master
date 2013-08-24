@@ -2,8 +2,8 @@
   "name": "pass-master",
   "fullName": "pass-master",
   "id": "jid1-AEHmM2jYPnne4g",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Lets you decide if you want to autocomplete or not",
+  "author": "Cameron Matheson",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.2"
 }
